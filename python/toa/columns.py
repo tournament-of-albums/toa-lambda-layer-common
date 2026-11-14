@@ -26,6 +26,7 @@ class ScoresCol:
     IS_NEW = "is_new"
     SCORE_DELTA = "score_delta"
     RANK_DELTA = "rank_delta"
+    NUM_MATCHES = "num_matches"
 
 
 class VizCol:
