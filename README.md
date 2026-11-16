@@ -1,8 +1,8 @@
 # toa-lambda-layer-common
 
 Shared Python layer for every Lambda in the Tournament of Albums backend — both the
-[pipeline](https://github.com/tor-gu/toa-data-pipeline) Lambdas and the
-[API](https://github.com/tor-gu/toa-api) Lambdas. `python/` is zipped as-is, so the
+[pipeline](https://github.com/tournament-of-albums/toa-data-pipeline) Lambdas and the
+[API](https://github.com/tournament-of-albums/toa-api) Lambdas. `python/` is zipped as-is, so the
 modules import as `toa.*`.
 
 ## Modules
